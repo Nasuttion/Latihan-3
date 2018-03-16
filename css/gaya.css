@@ -1,0 +1,150 @@
+*{
+	background:#EFEFEF;
+}
+.border{
+	background:white;
+}
+	.a{
+		background:white;
+	}
+	
+	.menu{
+		background:#093697;
+		padding:8px;
+	}
+		.li{
+			display:inline;
+			padding:8px;
+			background:#093697;
+		}
+			.menuu{
+				background:#093697;
+				color:white;
+				text-decoration:none;
+		
+			}
+				.submit{
+					background:#FFD700;
+					border:0;
+					padding:2px 6px;
+					cursor:pointer;
+				}
+
+					.button{
+						background:white;
+					}
+.kiri{
+	background:white;
+	padding:0 13px 0 5px;
+}
+	.login{
+		padding-bottom:0;
+		margin-top:7px;
+		background:white;
+	}
+		.aa{
+			margin-bottom:8px;
+			background:white;
+		}
+			.ab{
+				margin-bottom:3px;
+				background:white;
+			}
+ 
+.tengah {
+	background:white;
+	padding-right:25px;
+} 
+	.tengahA{
+		color:blue;
+		background:white;
+		margin-top:25px;
+		margin-bottom:0px;
+		
+		
+	}
+		.ket{
+			background:white;
+			color:gray;
+			padding-top:0px;
+			margin-top:0px;
+			
+		}
+			.text{
+				padding-right:15px;
+				background:white;
+			}
+				.tombol{
+					border:1px;
+					padding:5px 10px;
+					background:#FFD700;
+					cursor:pointer;
+				}
+					#but{
+						background:white;
+						margin-bottom:50px;
+					}
+						.button{
+							padding:5px 10px;
+							margin:0px 5px 0 0px;
+							background:#FFD700;
+							border:none;
+							cursor:pointer;
+							
+						}
+							#button1{
+								padding:5px 10px;
+								margin:0px 5px 0 0px;
+								background:white;
+								border:none;
+								cursor:pointer;
+							}
+							 
+ 
+ .kanan{
+	 background:white;
+ }
+	.cari {
+		margin-bottom:4px;
+		background:white;
+	}
+ 
+		.js{
+			background:white;
+			float:left;
+		}
+			.textjs{
+				padding-top:15px;
+				background-color:white;
+				display:block;
+			}
+				.php{
+					background:white;
+					float:left;
+					padding-right:10px;
+				}
+					.textphp{
+						padding-top:3px;
+						background-color:white;
+						display:block;
+					}
+						.kaan{
+							padding:0 10px 0 0;
+							background:white;
+						}
+							.b{
+								background:white;
+								text-decoration:none;
+							}
+								.b li{
+									
+									background:white;
+									text-decoration:none;
+								}
+									
+				
+				
+.footer{
+	background-color:#093697;
+	color:white;
+}
